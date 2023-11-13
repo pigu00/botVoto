@@ -2,7 +2,7 @@
     "name": "base-bailey-json",
     "version": "1.0.0",
     "description": "",
-    "main": "app.js",
+    "main": "index.html",
     "scripts": {
         "pre-copy": "cd .. && npm run  copy.lib base-baileys-json",
         "start": "node app.js"
